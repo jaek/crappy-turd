@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.pgb.shitbird" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="https://phonegap.com/ns/1.0">
+	<name>Shitty Turd</name>
+	<description>
+		A flappy bird clone	
+	</description>
+
+	<author email="jake.w.burns@gmail.com" href="https://jaek.github.io">
+	   Jacob Burns
+	</author>
+
+	<preference name="phonegap-version" value="cli-6.0.0" />
+</widget>
+
